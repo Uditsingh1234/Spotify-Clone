@@ -3,6 +3,7 @@
 
 I create this using with the help of Reactjs and tailwind css it will playing songs and we can control them by play next song, previous song and navigate to time also..
 
+## Live: https://spotify-duplicate.vercel.app/ 
 
 ## Landing Page
 
